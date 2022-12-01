@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[CreateCustomer]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="357" started-at="2022-11-28T11:34:34 IST" finished-at="2022-11-28T11:34:34 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="357" started-at="2022-11-28T11:34:34 IST" finished-at="2022-11-28T11:34:34 IST">
+      <class name="com.actitime.testScript.CreateCustomer">
+        <test-method status="PASS" signature="CreateCustomer()[pri:0, instance:com.actitime.testScript.CreateCustomer@3b084709]" name="CreateCustomer" duration-ms="189" started-at="2022-11-28T11:34:34 IST" finished-at="2022-11-28T11:34:34 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[CreateCustomer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateCustomer -->
+      </class> <!-- com.actitime.testScript.CreateCustomer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
